@@ -11,5 +11,7 @@ All Commands:
 -
 
 | Command | Description |
-| --- | --- |
-
+|---|---|
+| `help {the other command}` | Shows brief important notes about the functional commands of the program |
+| `show {all, <function id>}` | Based on the second argument, the command shows all functions in the database |
+| `add <function>` | Adds a function to the database and the syntax is *f(x,...)=(expression)*, where f can be any letter, the arguments(like x) are also letters, more about the *expression* below |
