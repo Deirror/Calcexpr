@@ -32,6 +32,6 @@ More info is written when needed, as these operators are *trivial*.
 | `+` | *((var)+(var))* |
 | `-` | *((var)-(var))* |
 | `/` | *((var)/(var))* |
-| `*` | *((var)*(var))* |
+| `*` | *((var)***(var))* |
 | `%` | *((var)%(var))* |
 | `^` | *((var)^(var))* |
