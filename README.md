@@ -2,14 +2,14 @@
 
 ![calcexpr](https://github.com/user-attachments/assets/1357c865-dcd2-4c1c-9fb8-880faa92f57a)
 
-Description:
+Description
 -
 
 The aim of the project is to create a convinient way, using CLI, to write plain mathematical functions, save them in a file, read them from a file and solve them by passing arguments(these functions are just like templates).
 
 The database is a file, which is automatically created for you in the user/home folder.
 
-All Commands:
+All Commands
 -
 
 | Command | Description |
@@ -21,7 +21,7 @@ All Commands:
 | `delete <function id>` | Deletes a function based on an *ID* |
 | `solve <function id> <argumnets>`| Based on an *ID*, the corresponding function is solved with the passed arguments and the syntax is *ID f(arguments)*, where *ID* is found by typing command `show all`, f **must** match the function name and *arguments* are just numbers |
 
-And of course the operators:
+And of course the operators
 -
 
 Note that each operator **must** be enclosed by *brackets*.
@@ -38,7 +38,7 @@ More info is written when needed, as these operators are *trivial*.
 | `%` | *((var)%(var))* |
 | `^` | *((var)^(var))* |
 
-Example functions:
+Example functions
 -
 
 -  *f(x,y)=((x)/(y))* -> Dividor
