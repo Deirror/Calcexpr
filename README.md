@@ -7,6 +7,8 @@ Description:
 
 The aim of the project is to create a convinient way, using CLI, to write plain mathematical functions, save them in a file, read them from a file and solve them by passing arguments(these functions are just like templates).
 
+The database is a file, which is automatically created for you in the user/home folder.
+
 All Commands:
 -
 
