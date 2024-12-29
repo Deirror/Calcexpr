@@ -36,7 +36,9 @@ More info is written when needed, as these operators are *trivial*.
 | `%` | *((var)%(var))* |
 | `^` | *((var)^(var))* |
 
-Example functions;
+Example functions:
 -
 
 *f(x,y)=((x)/(y))*
+*g(z)=(!(z))*
+*c(a,b,p)=(((a)^(p))+((b)^(p))) -> Pythagoras Formula*
