@@ -27,7 +27,7 @@ More info is written when needed, as these operators are *trivial*.
 
 | Operators | Usage |
 |---|---|
-| `var` | *((var))* -> just a variable |
+| `var` | *(var)* -> just a variable |
 | `!` | *(!(var))* -> multiplies *var* by -1 |
 | `+` | *((var)+(var))* |
 | `-` | *((var)-(var))* |
@@ -35,3 +35,8 @@ More info is written when needed, as these operators are *trivial*.
 | `*` | *((var)***(var))* |
 | `%` | *((var)%(var))* |
 | `^` | *((var)^(var))* |
+
+Example functions;
+-
+
+*f(x,y)=((x)/(y))*
